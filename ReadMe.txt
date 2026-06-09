@@ -17,7 +17,6 @@ https://uqpyproject.readthedocs.io/
 
 
 
-
 ## Usage
 
 Run the example scripts directly, for example:
