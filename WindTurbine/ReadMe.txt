@@ -2,6 +2,6 @@
 
 
 
-# For the related numerical model, please refer to:
+# For the numerical model of wind turbine, please refer to:
 
 N. Sehrawat, Dynamic Response of an Offshore Wind Turbine Using Linear (LIM) and Non-linear (NLIM) Environmental Interaction Models, Delft University of Technology, The Netherlands, 2016.
