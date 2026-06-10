@@ -6,7 +6,7 @@ This repository contains the source code for the illustrative and engineering ex
 
 ## Requirements
 
-The code is written in Python and provided mainly as Jupyter notebooks.
+The code is written in Python and provided mainly as Jupyter notebooks. The engineering numerical models are implemented in MATLAB.
 
 
 
