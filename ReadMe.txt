@@ -22,9 +22,3 @@ https://uqpyproject.readthedocs.io/
 Run the example scripts directly, for example:
 
 Mirror.ipynb
-
-
-
-## License
-
-This code is provided for academic and research use.
